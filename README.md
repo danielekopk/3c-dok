@@ -1,1 +1,2 @@
-# 3c-dok
+# Moja prva stranka Hello world
+lablabla Lorem ipsum dolor sit amet consectetur apid...
